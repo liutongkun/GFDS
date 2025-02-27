@@ -54,5 +54,5 @@ Dataset/
 │       └── ...
 ```
 ## Acknowledgement:
-we mainly use the code from https://github.com/fanq15/SSP, https://github.com/nelson1425/EfficientAD,https://github.com/CASIA-IVA-Lab/FastSAM. Thanks for their great work.
+we mainly use the code from https://github.com/fanq15/SSP, https://github.com/nelson1425/EfficientAD, https://github.com/CASIA-IVA-Lab/FastSAM. Thanks for their great work.
 
