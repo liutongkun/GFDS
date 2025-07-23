@@ -1,7 +1,7 @@
 # GFDS
 Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models
 ## Preparation
-rubber ring datasets: https://drive.google.com/file/d/1aBI6cGRxjzgk02VFYSIGbNm2X_FqFqno/view?usp=drive_link
+rubber ring datasets: https://drive.google.com/file/d/1iFPSNfG_w8B8IntCiVFIFiIP9qWhdpRQ/view?usp=sharing
 
 pretrained models: https://drive.google.com/file/d/1mTFBYodaZZeltezIgWERtGtuQT8cKSbM/view?usp=drive_link
 
